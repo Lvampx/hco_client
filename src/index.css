@@ -1,0 +1,4 @@
+/*  Aqui se agrega para conectar tailwind para todo el proyecto ya que este archivo esta conectado a la carpeta principal */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
